@@ -1,5 +1,5 @@
 # Nama  : Riska Safitri
-# NIM   : 24241173
+# Nim   : 24241173
 # Program: Class Mobil
 
 
@@ -34,3 +34,4 @@ mobil_baru = Mobil(
 )
 
 mobil_baru.info_mobil()
+
